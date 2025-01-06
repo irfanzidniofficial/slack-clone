@@ -1,1 +1,1 @@
-export type SignInFlow = "signIn" | "SignUp";
+export type SignInFlow = "signIn" | "signUp";
